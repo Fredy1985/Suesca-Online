@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nombre": "Publicidad",
+        "detalles": "Ejemplo de publicidad"
+    },
+    {
+        "id": 2,
+        "nombre": "Turismo",
+        "detalles": "Tarjetas con información de Turismo"
+    },
+    {
+        "id": 3,
+        "nombre": "Contacto",
+        "detalles": "Tabla con edición de registros"
+    },
+    {
+        "id": 4,
+        "nombre": "Buscador",
+        "detalles": "Buscador inteligente"
+    }
+]

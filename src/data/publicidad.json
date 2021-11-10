@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "titulo": "Almacén Gente Jóven",
+        "urlImg": "../assets/Gente Joven.png",
+        "descripcion": "Gente jóven es un negocio innovador en moda y accesorios para dama, caballero y niños con excelente calidad y las mejores marcas."        
+    },
+    {
+        "id": "2",
+        "titulo": "SuescAventura",
+        "urlImg": "../assets/SuescAventura1.png",
+        "descripcion": "Ven y disfruta en SuescAventura la escalada en roca  una experiencia maravillosa al aire libre en la que estarás 100% en contacto con la naturaleza.🌾🍃🌺."        
+    },
+    {
+        "id": "3",
+        "titulo": "Pizza Donde Mauro's",
+        "urlImg": "../assets/Pizza Donde Mauros.png",
+        "descripcion": " Para nosotros es un placer atenderte. Recuerda que te esperamos en nuestro horario habitual: L-V 12:00 M a 10:30 PM;  S-D y festivos 11:30 AM a 10:30 PM."        
+    },
+    {
+        "id": "4",
+        "titulo": "Antojitos",
+        "urlImg": "../assets/Antojitos.png",
+        "descripcion": "Volvimos con lo mejor que nunca, pude tus domicilios al 3132847584 y danos el gusto de atenderlos, pizza, hamburguesas, salchipapas, perros calientes, masorcada."        
+    },
+    {
+        "id": "5",
+        "titulo": "Fogata Roja",
+        "urlImg": "../assets/Fogata Roja.png",
+        "descripcion": "🍗¿Qué tal un delicioso combo de pollo asado con papas saladas, arepas, patacones, salsitas y nuestro tradicional ají?🫕 📱Pide al 3112790517 /3124659615.🏍."        
+    },
+    {
+        "id": "6",
+        "titulo": "Rica Pizza Gourmet",
+        "urlImg": "../assets/Rica Pizza.png",
+        "descripcion": "Estamos ubicados en la entrada a las rocas en el municipio de Suesca – Cundinamarca. Los invitamos a disfrutar de una experiencia gastronómica inolvidable."        
+    }
+]
