@@ -19,7 +19,7 @@ export default function Main(props) {
         <div className="container">
             <div className="row">
                 <div className="col-sm-12">
-                    <h2></h2>
+                    
                 </div>
             </div>
             <div className="row">

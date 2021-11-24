@@ -1,0 +1,24 @@
+ 
+1. Backend
+
+ 	"start": "node src/index.js"
+2. Crear el .gitignore
+	/node_modules
+
+3. Obtener la url del backend
+
+4. Frontend sustituir baseURL -> Por la dada en heroku
+	Axios.defaults.baseURL='https://app-backendgrupo11.herokuapp.com'
+
+5. Frontend
+
+ 	"dev": "react-scripts start",
+   	 "start": "serve -s build",
+	"heroku-postbuild": "npm run build"
+
+6. npm install serve --s
+
+7. npm run build
+8. opcional netlify (se arrastra la carpeta build)
+
+
