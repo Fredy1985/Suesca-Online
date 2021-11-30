@@ -1,10 +1,10 @@
 import axios from 'axios'
 
 // PRODUCTION
-// const URL_SERVER = "https://kingamer-api.herokuapp.com";
+const URL_SERVER = "https://suescaonline-api.herokuapp.com";
 
 // DEVELOP
-const URL_SERVER = 'http://localhost:4000'
+//const URL_SERVER = 'http://localhost:4000'
 const URL_API = `${URL_SERVER}`
 
 const URL_IMAGE = `${URL_API}/load/image/`
