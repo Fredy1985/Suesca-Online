@@ -1,9 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './css/bootstrap.min.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Formulario } from './Formulario/Formulario';
 import { AppRoute } from './routes/AppRoute';
 
 ReactDOM.render(

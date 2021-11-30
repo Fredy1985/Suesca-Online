@@ -1,0 +1,7 @@
+.card__publish:hover{
+    /* height: 410px; */
+    /* background-color: #020F31; */
+    cursor: pointer !important;
+    color: white !important;
+    border: 5px solid #020F31;
+}
